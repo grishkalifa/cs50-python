@@ -1,0 +1,2 @@
+# cs50-python
+STEP 2 ON MY AGI ARCHITECT PATH
